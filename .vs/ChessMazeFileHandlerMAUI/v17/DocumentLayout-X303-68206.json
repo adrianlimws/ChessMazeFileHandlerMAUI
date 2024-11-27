@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wel0286\\OneDrive - Ara Institute of Canterbury\\Desktop\\BCDE223_C#\\_Assessment3\\ChessMazeFileHandlerMAUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1C3BF0-0E63-484B-A41F-87A2313FBF12}|ChessMazeFileHandlerMAUI.csproj|c:\\users\\wel0286\\onedrive - ara institute of canterbury\\desktop\\bcde223_c#\\_assessment3\\chessmazefilehandlermaui\\mainpage.saving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1C3BF0-0E63-484B-A41F-87A2313FBF12}|ChessMazeFileHandlerMAUI.csproj|solutionrelative:mainpage.saving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1C3BF0-0E63-484B-A41F-87A2313FBF12}|ChessMazeFileHandlerMAUI.csproj|c:\\users\\wel0286\\onedrive - ara institute of canterbury\\desktop\\bcde223_c#\\_assessment3\\chessmazefilehandlermaui\\mainpage.loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1C3BF0-0E63-484B-A41F-87A2313FBF12}|ChessMazeFileHandlerMAUI.csproj|solutionrelative:mainpage.loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1C3BF0-0E63-484B-A41F-87A2313FBF12}|ChessMazeFileHandlerMAUI.csproj|c:\\users\\wel0286\\onedrive - ara institute of canterbury\\desktop\\bcde223_c#\\_assessment3\\chessmazefilehandlermaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1C3BF0-0E63-484B-A41F-87A2313FBF12}|ChessMazeFileHandlerMAUI.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1C3BF0-0E63-484B-A41F-87A2313FBF12}|ChessMazeFileHandlerMAUI.csproj|c:\\users\\wel0286\\onedrive - ara institute of canterbury\\desktop\\bcde223_c#\\_assessment3\\chessmazefilehandlermaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9B1C3BF0-0E63-484B-A41F-87A2313FBF12}|ChessMazeFileHandlerMAUI.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.Loading.cs",
+              "DocumentMoniker": "C:\\Users\\wel0286\\OneDrive - Ara Institute of Canterbury\\Desktop\\BCDE223_C#\\_Assessment3\\ChessMazeFileHandlerMAUI\\MainPage.Loading.cs",
+              "RelativeDocumentMoniker": "MainPage.Loading.cs",
+              "ToolTip": "C:\\Users\\wel0286\\OneDrive - Ara Institute of Canterbury\\Desktop\\BCDE223_C#\\_Assessment3\\ChessMazeFileHandlerMAUI\\MainPage.Loading.cs",
+              "RelativeToolTip": "MainPage.Loading.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:46:21.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.Saving.cs",
+              "DocumentMoniker": "C:\\Users\\wel0286\\OneDrive - Ara Institute of Canterbury\\Desktop\\BCDE223_C#\\_Assessment3\\ChessMazeFileHandlerMAUI\\MainPage.Saving.cs",
+              "RelativeDocumentMoniker": "MainPage.Saving.cs",
+              "ToolTip": "C:\\Users\\wel0286\\OneDrive - Ara Institute of Canterbury\\Desktop\\BCDE223_C#\\_Assessment3\\ChessMazeFileHandlerMAUI\\MainPage.Saving.cs",
+              "RelativeToolTip": "MainPage.Saving.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:50:14.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wel0286\\OneDrive - Ara Institute of Canterbury\\Desktop\\BCDE223_C#\\_Assessment3\\ChessMazeFileHandlerMAUI\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\wel0286\\OneDrive - Ara Institute of Canterbury\\Desktop\\BCDE223_C#\\_Assessment3\\ChessMazeFileHandlerMAUI\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA2wBIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:06:07.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\wel0286\\OneDrive - Ara Institute of Canterbury\\Desktop\\BCDE223_C#\\_Assessment3\\ChessMazeFileHandlerMAUI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\wel0286\\OneDrive - Ara Institute of Canterbury\\Desktop\\BCDE223_C#\\_Assessment3\\ChessMazeFileHandlerMAUI\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-11T02:53:58.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

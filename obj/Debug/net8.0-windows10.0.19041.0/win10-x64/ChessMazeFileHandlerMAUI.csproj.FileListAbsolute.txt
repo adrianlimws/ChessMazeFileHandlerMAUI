@@ -1,0 +1,811 @@
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.exe
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.deps.json
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.runtimeconfig.json
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.pdb
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.Core.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Speech.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.csproj.AssemblyReference.cache
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.AssemblyInfoInputs.cache
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.AssemblyInfo.cs
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.sourcelink.json
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMaz.CFABCEDB.Up2Date
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\ChessMazeFileHandlerMAUI.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.pdb
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.genruntimeconfig.cache
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\ChessMazeFileHandlerMAUI.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.exe
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.deps.json
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.runtimeconfig.json
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.pdb
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.Core.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Speech.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.csproj.AssemblyReference.cache
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.AssemblyInfoInputs.cache
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.AssemblyInfo.cs
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.csproj.CoreCompileInputs.cache
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.sourcelink.json
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMaz.CFABCEDB.Up2Date
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\ChessMazeFileHandlerMAUI.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.pdb
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.genruntimeconfig.cache
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\ChessMazeFileHandlerMAUI.dll
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\wel0286\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\_submission\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.exe
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.deps.json
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.runtimeconfig.json
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.pdb
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.Core.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Speech.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.csproj.AssemblyReference.cache
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.AssemblyInfoInputs.cache
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.AssemblyInfo.cs
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.sourcelink.json
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMaz.CFABCEDB.Up2Date
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\ChessMazeFileHandlerMAUI.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.pdb
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.genruntimeconfig.cache
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\ChessMazeFileHandlerMAUI.dll
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Adrian\OneDrive - Ara Institute of Canterbury\Desktop\BCDE223_C#\_Assessment3\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.exe
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.deps.json
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.runtimeconfig.json
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.pdb
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.Core.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Humanizer.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Bcl.AsyncInterfaces.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.CodeAnalysis.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.CodeAnalysis.CSharp.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.CodeAnalysis.Workspaces.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Data.Sqlite.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Design.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Relational.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Caching.Abstractions.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Caching.Memory.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyModel.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.IO.RecyclableMemoryStream.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Mono.TextTemplating.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.CodeDom.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Composition.AttributedModel.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Composition.Convention.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Composition.Hosting.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Composition.Runtime.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Composition.TypedParts.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Speech.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.CodeAnalysis.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.CodeAnalysis.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.CodeAnalysis.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.CodeAnalysis.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.CodeAnalysis.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.CodeAnalysis.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.CodeAnalysis.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.CodeAnalysis.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.CodeAnalysis.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.CodeAnalysis.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+M:\ChessMazeFileHandlerMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.csproj.AssemblyReference.cache
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.GeneratedMSBuildEditorConfig.editorconfig
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.AssemblyInfoInputs.cache
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.AssemblyInfo.cs
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.csproj.CoreCompileInputs.cache
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMaz.CFABCEDB.Up2Date
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.dll
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\ChessMazeFileHandlerMAUI.dll
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.pdb
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.genruntimeconfig.cache
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\ChessMazeFileHandlerMAUI.dll
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMazeFileHandlerMAUI.genpublishdeps.cache
+M:\ChessMazeFileHandlerMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt

@@ -1,0 +1,1 @@
+M:\ChessMazeFileHandlerMAUI\ChessMazeFileHandlerMAUI.csproj;x64

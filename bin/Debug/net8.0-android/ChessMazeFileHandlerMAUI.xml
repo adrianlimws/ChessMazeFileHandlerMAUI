@@ -1,0 +1,643 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ChessMazeFileHandlerMAUI</name>
+    </assembly>
+    <members>
+        <member name="F:ChessMaze.FileHandler.Filer.Enums.PieceType.Empty">
+            <summary>
+            Represents an empty square on the chessboard.
+            </summary>
+        </member>
+        <member name="F:ChessMaze.FileHandler.Filer.Enums.PieceType.King">
+            <summary>
+            Represents the King chess piece.
+            </summary>
+        </member>
+        <member name="F:ChessMaze.FileHandler.Filer.Enums.PieceType.Rook">
+            <summary>
+            Represents the Rook chess piece.
+            </summary>
+        </member>
+        <member name="F:ChessMaze.FileHandler.Filer.Enums.PieceType.Bishop">
+            <summary>
+            Represents the Bishop chess piece.
+            </summary>
+        </member>
+        <member name="F:ChessMaze.FileHandler.Filer.Enums.PieceType.Knight">
+            <summary>
+            Represents the Knight chess piece.
+            </summary>
+        </member>
+        <member name="F:ChessMaze.FileHandler.Filer.Enums.PieceType.Pawn">
+            <summary>
+            Represents the Pawn chess piece.
+            </summary>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.GenerateAutoFileName(System.String,System.String)">
+            <summary>
+            Generates a file path based on provided path or creates automatic file name
+            </summary>
+            <param name="fileType">Type of file (Level or Game). Defaults to Level</param>
+            <param name="directory">Directory to save the file. If null, uses the current directory</param>
+            <returns>A file path</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.SaveCompressedLevel(ChessMaze.FileHandler.Filer.Interfaces.ILevel,System.String)">
+            <summary>
+            Saves a compressed level to a file
+            </summary>
+            <param name="level">Level to be saved</param>
+            <param name="filePath">Path of file save location</param>
+            <exception cref="T:System.IO.IOException">Thrown when there's an error saving the file</exception>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.ValidateInputLevel(ChessMaze.FileHandler.Filer.Interfaces.ILevel)">
+            <summary>
+            Validates input level before compression
+            </summary>
+            <param name="level">Level to be validated</param>
+            <returns>True if level is valid</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.GetUncompressedLevelString(ChessMaze.FileHandler.Filer.Interfaces.ILevel)">
+            <summary>
+            Converts a level to an uncompressed string representation
+            </summary>
+            <param name="level">Level to be converted</param>
+            <returns>A string representation of uncompressed level</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.DisplayUnexpectedError(System.String,System.Exception)">
+            <summary>
+            Displays unexpected error message with unique error code
+            </summary>
+            <param name="message">Error message to display</param>
+            <param name="e">Exception that occurred</param>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.DisplayErrorMessage(System.String,System.Exception)">
+            <summary>
+            Displays standard error message with details from exception
+            </summary>
+            <param name="message">Error message to display</param>
+            <param name="e">Exception that occurred</param>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.CheckIfFileExists(System.String)">
+            <summary>
+            Checks if a file exists at the specified path and throws an exception
+            </summary>
+            <param name="filePath">Path file location to check</param>
+            <exception cref="T:System.IO.FileNotFoundException">Thrown when file is not found</exception>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.CheckGameFileFormat(System.String[])">
+            <summary>
+            Validates format of a game file by checking the number of lines
+            </summary>
+            <param name="lines">Lines of the game file</param>
+            <exception cref="T:System.FormatException">Thrown when the file format is invalid</exception>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.CheckFileLevelFormat(System.String[])">
+            <summary>
+            Validates format of a level file by checking the number of lines
+            </summary>
+            <param name="lines">Lines of the level file</param>
+            <exception cref="T:System.FormatException">Thrown when the file format is invalid</exception>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.LoadCompressedLevel(System.String)">
+            <summary>
+            Loads a compressed level from a file
+            </summary>
+            <param name="filePath">Path of file to be loaded</param>
+            <returns>A loaded level</returns>
+            <exception cref="T:System.IO.IOException">Thrown when there's an error loading the file</exception>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.LoadLevelFromCompressedLines(System.String[])">
+            <summary>
+            Loads level from compressed data
+            </summary>
+            <param name="lines">Compressed data containing lines of level</param>
+            <returns>The loaded level</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.ValidateCompressedInput(System.String[])">
+            <summary>
+            Validates compressed input data
+            </summary>
+            <param name="lines">Lines of compressed data to be validated</param>
+            <returns>True if the input is valid</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.ValidateExpandedLevel(ChessMaze.FileHandler.Filer.Interfaces.ILevel)">
+            <summary>
+            Validates an expanded level
+            </summary>
+            <param name="level">Level to be validated</param>
+            <returns>True if the level is valid</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.IsValidPosition(ChessMaze.FileHandler.Filer.Interfaces.IPosition,ChessMaze.FileHandler.Filer.Interfaces.IBoard)">
+            <summary>
+            Checks if a position is valid within the loaded board
+            </summary>
+            <param name="position">Position to check</param>
+            <param name="board">Board to check</param>
+            <returns>True if the position is valid</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.LoadGameState(System.String)">
+            <summary>
+            Loads a previous game state from file
+            </summary>
+            <param name="filePath">Path location of file to load the game from</param>
+            <returns>A loaded game</returns>
+            <exception cref="T:System.IO.IOException">Thrown when error loading game</exception>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.LoadGameLevel(System.String)">
+            <summary>
+            Loads level from a file
+            </summary>
+            <param name="filePath">Path location of file to load level from</param>
+            <returns>A loaded level</returns>
+            <exception cref="T:System.IO.IOException">Thrown when there's an error loading the level</exception>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.LoadLevelFromLines(System.String[])">
+            <summary>
+            Loads a level of an array of strings.
+            </summary>
+            <param name="lines">Line array of strings containing the level data</param>
+            <returns>A loaded level</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.RenderDimensions(System.String)">
+            <summary>
+            Parses dimensions of the game board from a string
+            </summary>
+            <param name="dimensionsLine">String containing the board dimensions</param>
+            <returns>A tuple of integers containing number of rows and columns</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.CreateBoard(System.ValueTuple{System.Int32,System.Int32},System.String[])">
+            <summary>
+            Creates a board from an array of strings.
+            </summary>
+            <param name="dimensions">Dimensions of the board</param>
+            <param name="boardLines">Lines of an array of strings containing the board data</param>
+            <returns>A created board</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.RenderPosition(System.String)">
+            <summary>
+            Renders a position from a string
+            </summary>
+            <param name="positionLine">String containing the position data</param>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.LoadGameFromXml(System.String)">
+            <summary>
+            Loads game state from an XML file
+            </summary>
+            <param name="filePath">Path location to load the XML file</param>
+            <returns>A loaded game state</returns>
+            <exception cref="T:System.IO.IOException">Thrown when an error is detected loading the game from XML format</exception>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.ConvertXmlToGame(System.Xml.XmlDocument)">
+            <summary>
+            Converts an XML document to a game object
+            </summary>
+            <param name="xmlDocx">XML document representing the game state</param>
+            <returns>A reconstructed game object</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.ConvertLevelFromXml(System.Xml.XmlNode)">
+            <summary>
+            Converts an XML node to a level object
+            </summary>
+            <param name="levelNode">XML node representing the level</param>
+            <returns>A reconstructed level object</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.ConvertPositionFromXml(System.Xml.XmlNode)">
+            <summary>
+            Converts an XML node to a position object
+            </summary>
+            <param name="positionNode">XML node representing the position</param>
+            <returns>A reconstructed position object</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.SaveGameState(ChessMaze.FileHandler.Filer.Interfaces.IGame,System.String)">
+            <summary>
+            Saves the current game state to a file
+            </summary>
+            <param name="game">Game file to be saved</param>
+            <param name="filePath">Path location the game will be saved</param>
+            <exception cref="T:System.IO.IOException">Thrown when there's an error saving the game</exception>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.SaveGameLevel(ChessMaze.FileHandler.Filer.Interfaces.ILevel,System.String)">
+            <summary>
+            Saves current level to a file
+            </summary>
+            <param name="level">The level to be saved</param>
+            <param name="filePath">Path location where level will be saved</param>
+            <exception cref="T:System.IO.IOException">Thrown when there's an error saving the level</exception>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.SaveLevel(ChessMaze.FileHandler.Filer.Interfaces.ILevel,System.IO.StreamWriter)">
+            <summary>
+            Saves the level data to a StreamWriter
+            </summary>
+            <param name="level">Level to be saved</param>
+            <param name="writer">The StreamWriter to write the level data to</param>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.CreateBoard(ChessMaze.FileHandler.Filer.Interfaces.IBoard,System.IO.StreamWriter)">
+            <summary>
+            Writes the board data to a StreamWriter
+            </summary>
+            <param name="board">Board to be written</param>
+            <param name="writer">The StreamWriter to write the board data to</param>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.CreatePosition(ChessMaze.FileHandler.Filer.Interfaces.IPosition,System.IO.StreamWriter)">
+            <summary>
+            Writes a position to a StreamWriter
+            </summary>
+            <param name="position">Position to be written</param>
+            <param name="writer">The StreamWriter to write the position to</param>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.SaveGameAsXml(ChessMaze.FileHandler.Filer.Interfaces.IGame,System.String)">
+            <summary>
+            Saves current game state to XML file
+            </summary>
+            <param name="game">Game to be saved</param>
+            <param name="filePath">Path location to save XML file</param>
+            <exception cref="T:System.IO.IOException">Thrown when an error is detected saving the game to XML format</exception>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.ConvertGameToXml(ChessMaze.FileHandler.Filer.Interfaces.IGame)">
+            <summary>
+            Converts game object to XML document
+            </summary>
+            <param name="game">Game to be converted</param>
+            <returns>An XmlDocument representing the game state</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.AppendLevelToXml(System.Xml.XmlDocument,System.Xml.XmlElement,ChessMaze.FileHandler.Filer.Interfaces.ILevel)">
+            <summary>
+            Appends level data to XML document
+            </summary>
+            <param name="xmlDocx">XML document being constructed</param>
+            <param name="levelElement">XML element representing the level</param>
+            <param name="level">Level data to be appended</param>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.FileHandlerMain.AppendPosToXml(System.Xml.XmlDocument,System.Xml.XmlElement,System.String,ChessMaze.FileHandler.Filer.Interfaces.IPosition)">
+            <summary>
+            Appends a position to XML document
+            </summary>
+            <param name="xmlDocx">XML document being constructed</param>
+            <param name="mainElement">Main XML element</param>
+            <param name="name">Name of the position element</param>
+            <param name="position">Position data to be appended</param>
+        </member>
+        <member name="P:ChessMaze.FileHandler.Filer.Interfaces.IBoard.Rows">
+            <summary>
+            Gets the number of rows on the board.
+            </summary>
+        </member>
+        <member name="P:ChessMaze.FileHandler.Filer.Interfaces.IBoard.Columns">
+            <summary>
+            Gets the number of columns on the board.
+            </summary>
+        </member>
+        <member name="P:ChessMaze.FileHandler.Filer.Interfaces.IBoard.Cells">
+            <summary>
+            Gets the array of cells on the board, each containing a piece.
+            </summary>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IBoard.GetPieceAt(ChessMaze.FileHandler.Filer.Interfaces.IPosition)">
+            <summary>
+            Gets the piece at a specific position on the board.
+            </summary>
+            <param name="position">The position to check.</param>
+            <returns>The piece at the specified position.</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IBoard.PlacePiece(ChessMaze.FileHandler.Filer.Interfaces.IPiece,ChessMaze.FileHandler.Filer.Interfaces.IPosition)">
+            <summary>
+            Places a piece at a specific position on the board.
+            </summary>
+            <param name="piece">The piece to place.</param>
+            <param name="position">The position to place the piece at.</param>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IBoard.RemovePiece(ChessMaze.FileHandler.Filer.Interfaces.IPosition)">
+            <summary>
+            Removes a piece from a specific position on the board.
+            </summary>
+            <param name="position">The position to remove the piece from.</param>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IBoard.MovePiece(ChessMaze.FileHandler.Filer.Interfaces.IPosition,ChessMaze.FileHandler.Filer.Interfaces.IPosition)">
+            <summary>
+            Moves a piece from one position to another on the board.
+            </summary>
+            <param name="from">The starting position of the piece.</param>
+            <param name="to">The destination position of the piece.</param>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IBoard.IsValidPosition(ChessMaze.FileHandler.Filer.Interfaces.IPosition)">
+            <summary>
+            Determines if a position is valid on the board.
+            </summary>
+            <param name="position">The position to check.</param>
+            <returns>True if the position is valid, otherwise false.</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IBoard.IsMoveLegal(ChessMaze.FileHandler.Filer.Interfaces.IPosition,ChessMaze.FileHandler.Filer.Interfaces.IPosition)">
+            <summary>
+            Determines if a move from one position to another is legal.
+            </summary>
+            <param name="from">The starting position of the move.</param>
+            <param name="to">The destination position of the move.</param>
+            <returns>True if the move is legal, otherwise false.</returns>
+        </member>
+        <member name="T:ChessMaze.FileHandler.Filer.Interfaces.IConverter">
+            <summary>
+            Provides functionality for compressing and expanding level data.
+            </summary>
+        </member>
+        <member name="P:ChessMaze.FileHandler.Filer.Interfaces.IConverter.Expanded">
+            <summary>
+            Gets the expanded form of the level data.
+            </summary>
+        </member>
+        <member name="P:ChessMaze.FileHandler.Filer.Interfaces.IConverter.Compressed">
+            <summary>
+            Gets the compressed form of the level data.
+            </summary>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IConverter.Compress(System.String)">
+            <summary>
+            Compresses the provided uncompressed level data.
+            </summary>
+            <param name="uncompressedLevel">The uncompressed level data.</param>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IConverter.Expand(System.String)">
+            <summary>
+            Expands the provided compressed level data.
+            </summary>
+            <param name="compressedLevel">The compressed level data.</param>
+        </member>
+        <member name="T:ChessMaze.FileHandler.Filer.Interfaces.IFileHandler">
+            <summary>
+            Provides functionality for handling file operations related to levels and games.
+            </summary>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IFileHandler.SaveGameLevel(ChessMaze.FileHandler.Filer.Interfaces.ILevel,System.String)">
+            <summary>
+            Saves a level to a specified file path.
+            </summary>
+            <param name="level">The level to save.</param>
+            <param name="filePath">The file path to save the level to.</param>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IFileHandler.LoadGameLevel(System.String)">
+            <summary>
+            Loads a level from a specified file path.
+            </summary>
+            <param name="filePath">The file path to load the level from.</param>
+            <returns>The loaded level.</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IFileHandler.SaveGameState(ChessMaze.FileHandler.Filer.Interfaces.IGame,System.String)">
+            <summary>
+            Saves a game to a specified file path.
+            </summary>
+            <param name="game">The game to save.</param>
+            <param name="filePath">The file path to save the game to.</param>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IFileHandler.LoadGameState(System.String)">
+            <summary>
+            Loads a game from a specified file path.
+            </summary>
+            <param name="filePath">The file path to load the game from.</param>
+            <returns>The loaded game.</returns>
+        </member>
+        <member name="T:ChessMaze.FileHandler.Filer.Interfaces.IGame">
+            <summary>
+            Represents a game session in the Chess Maze game.
+            </summary>
+        </member>
+        <member name="P:ChessMaze.FileHandler.Filer.Interfaces.IGame.CurrentLevel">
+            <summary>
+            Gets the current level being played.
+            </summary>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IGame.LoadLevel(ChessMaze.FileHandler.Filer.Interfaces.ILevel)">
+            <summary>
+            Loads a specified level into the game.
+            </summary>
+            <param name="aLevel">The level to load.</param>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IGame.MakeMove(ChessMaze.FileHandler.Filer.Interfaces.IPosition)">
+            <summary>
+            Attempts to make a move to a new position.
+            </summary>
+            <param name="newPosition">The new position to move to.</param>
+            <returns>True if the move is successful, otherwise false.</returns>
+        </member>
+        <member name="P:ChessMaze.FileHandler.Filer.Interfaces.IGame.IsGameOver">
+            <summary>
+            Determines if the game is over.
+            </summary>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IGame.GetMoveCount">
+            <summary>
+            Gets the count of moves made in the current game.
+            </summary>
+            <returns>The number of moves made.</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IGame.Undo">
+            <summary>
+            Undoes the last move made in the game.
+            </summary>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IGame.Restart">
+            <summary>
+            Restarts the current game level.
+            </summary>
+        </member>
+        <member name="T:ChessMaze.FileHandler.Filer.Interfaces.ILevel">
+            <summary>
+            Represents a level in the Chess Maze game.
+            </summary>
+        </member>
+        <member name="P:ChessMaze.FileHandler.Filer.Interfaces.ILevel.Board">
+            <summary>
+            Gets the game board for this level.
+            </summary>
+        </member>
+        <member name="P:ChessMaze.FileHandler.Filer.Interfaces.ILevel.StartPosition">
+            <summary>
+            Gets the start position for this level.
+            </summary>
+        </member>
+        <member name="P:ChessMaze.FileHandler.Filer.Interfaces.ILevel.EndPosition">
+            <summary>
+            Gets the end position for this level.
+            </summary>
+        </member>
+        <member name="P:ChessMaze.FileHandler.Filer.Interfaces.ILevel.Player">
+            <summary>
+            Gets the player for this level.
+            </summary>
+        </member>
+        <member name="P:ChessMaze.FileHandler.Filer.Interfaces.ILevel.IsCompleted">
+            <summary>
+            Determines if the level is completed.
+            </summary>
+        </member>
+        <member name="T:ChessMaze.FileHandler.Filer.Interfaces.IPiece">
+            <summary>
+            Represents a chess piece with a specific type.
+            </summary>
+        </member>
+        <member name="P:ChessMaze.FileHandler.Filer.Interfaces.IPiece.Type">
+            <summary>
+            Gets the type of the chess piece.
+            </summary>
+        </member>
+        <member name="T:ChessMaze.FileHandler.Filer.Interfaces.IPlayer">
+            <summary>
+            Represents a player in the Chess Maze game.
+            </summary>
+        </member>
+        <member name="P:ChessMaze.FileHandler.Filer.Interfaces.IPlayer.CurrentPosition">
+            <summary>
+            Gets or sets the current position of the player on the board.
+            </summary>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IPlayer.CanMove(ChessMaze.FileHandler.Filer.Interfaces.IPosition,ChessMaze.FileHandler.Filer.Interfaces.IBoard)">
+            <summary>
+            Determines if the player can move to a new position on the board.
+            </summary>
+            <param name="newPosition">The new position to move to.</param>
+            <param name="board">The game board.</param>
+            <returns>True if the move is possible, otherwise false.</returns>
+        </member>
+        <member name="M:ChessMaze.FileHandler.Filer.Interfaces.IPlayer.Move(ChessMaze.FileHandler.Filer.Interfaces.IPosition,ChessMaze.FileHandler.Filer.Interfaces.IBoard)">
+            <summary>
+            Moves the player to a new position on the board.
+            </summary>
+            <param name="newPosition">The new position to move to.</param>
+            <param name="board">The game board.</param>
+        </member>
+        <member name="T:ChessMaze.FileHandler.Filer.Interfaces.IPosition">
+            <summary>
+            Represents a position on the chess board with row and column coordinates.
+            </summary>
+        </member>
+        <member name="P:ChessMaze.FileHandler.Filer.Interfaces.IPosition.Row">
+            <summary>
+            Gets the row number of the position.
+            </summary>
+        </member>
+        <member name="P:ChessMaze.FileHandler.Filer.Interfaces.IPosition.Column">
+            <summary>
+            Gets the column number of the position.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Button.TextColorTo(Microsoft.Maui.Controls.Button,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_DatePicker.TextColorTo(Microsoft.Maui.Controls.DatePicker,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Editor.TextColorTo(Microsoft.Maui.Controls.Editor,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Entry.TextColorTo(Microsoft.Maui.Controls.Entry,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_InputView.TextColorTo(Microsoft.Maui.Controls.InputView,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Label.TextColorTo(Microsoft.Maui.Controls.Label,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Picker.TextColorTo(Microsoft.Maui.Controls.Picker,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_RadioButton.TextColorTo(Microsoft.Maui.Controls.RadioButton,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_SearchBar.TextColorTo(Microsoft.Maui.Controls.SearchBar,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_TimePicker.TextColorTo(Microsoft.Maui.Controls.TimePicker,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+    </members>
+</doc>
